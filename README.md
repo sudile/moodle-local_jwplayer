@@ -1,6 +1,8 @@
 moodle-local_jwplayer
 =====================
 
+Development given up, features integrated in original filter_jwplayer (https://github.com/lucisgit/moodle-filter_jwplayer).
+
 **Plugin currently in beta, not safe for production systems**
 
 This is a moodle local plugin (https://docs.moodle.org/dev/Local_plugins) that provides a *core_media_player* subclass and a *core_media_renderer* subclass to embed audio/video with the JW Player (http://www.jwplayer.com/).
